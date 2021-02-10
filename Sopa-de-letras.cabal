@@ -10,9 +10,9 @@ version:             0.1.0.0
 -- bug-reports:
 -- license:
 license-file:        LICENSE
--- author:
+-- author:           udemy.com
 -- maintainer:
--- copyright:
+-- copyright:        udemy.com
 -- category:
 build-type:          Simple
 extra-source-files:  CHANGELOG.md
